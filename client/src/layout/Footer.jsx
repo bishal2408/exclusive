@@ -8,7 +8,6 @@ import AppleStoreImage from "../assets/images/footer/applestore.png";
 const Footer = () => {
   return (
     <div className="px-10 py-16 mt-5 bg-black text-white">
-      {/* className="grid md:grid-cols-3 lg:grid-cols-5 2xl:grid-cols-5 gap-5" */}
       <div className="grid gap-5 md:grid-cols-3 lg:grid-cols-5 2xl:grid-cols-5 justify-between">
         <div className="mb-3">
           <h3 className="text-2xl font-bold mb-2">Exclusive</h3>

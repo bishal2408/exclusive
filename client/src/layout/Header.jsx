@@ -4,7 +4,7 @@ import InputField from "../components/InputField";
 
 const Header = () => {
   return (
-    <header className="py-4 px-10 flex justify-between items-center border ">
+    <header className="py-4 px-14 flex justify-between items-center border ">
       <Link to={"/"}>
         <span className="font-bold text-xl">Exclusive</span>
       </Link>
