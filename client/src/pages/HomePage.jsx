@@ -22,9 +22,10 @@ const HomePage = () => {
         <CategorySidebar categoryName={"Health & Beauty"} />
       </div>
 
-      <div className="mt-10 ml-10 bg-black ">
+      <div className="mt-10 ml-10">
           <Carousel />
       </div>
+
     </div>
   );
 };
