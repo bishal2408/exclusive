@@ -18,7 +18,7 @@ const Carousel = () => {
     setSlide(slide === 0 ? CarouselData.length - 1 : slide - 1)
   }
 
- 
+
   return (
     <>
       {CarouselData.map((imageData, index) => (
